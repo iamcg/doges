@@ -11,7 +11,7 @@ namespace dugs
         public String Name;
         public Bet MyBet;
         public int Cash;
-
+	//radish
         public RadioButton MyRadioButton;
         public Label Mylabel;
 
