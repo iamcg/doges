@@ -1,0 +1,7 @@
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\bin\Release\dugs.exe
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\bin\Release\dugs.pdb
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Release\dugs.form1.resources
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Release\dugs.Properties.Resources.resources
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Release\dugs.csproj.GenerateResource.Cache
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Release\dugs.exe
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Release\dugs.pdb

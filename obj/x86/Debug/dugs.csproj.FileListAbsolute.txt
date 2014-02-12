@@ -1,0 +1,8 @@
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Debug\dugs.Properties.Resources.resources
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Debug\dugs.csproj.GenerateResource.Cache
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\bin\Debug\dugs.exe
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\bin\Debug\dugs.pdb
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Debug\dugs.form1.resources
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Debug\dugs.exe
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Debug\dugs.pdb
+C:\Users\chris\documents\visual studio 2010\Projects\dugs\dugs\obj\x86\Debug\dugs.csprojResolveAssemblyReference.cache
