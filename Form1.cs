@@ -56,12 +56,12 @@ namespace dugs
 
         private void button1_Click(object sender, EventArgs e)
         {
-     //       if(label3.Text.Contains("placed") || label4.Text.Contains("placed") || label5.Text.Contains("placed")){
-       //         MessageBox.Show("At least one bet must be placed");
-         //   }
+           //if(label3.Text.Contains("placed") && label4.Text.Contains("placed") && label5.Text.Contains("placed")){
+           //     MessageBox.Show("At least one bet must be placed");
+           // }
            // else{
             timer1.Start();
-            //}
+          //  }
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
@@ -106,9 +106,12 @@ namespace dugs
                     button1.Enabled = true;
                     foreach (Guy guy in myGuys)
                     {
+                        if (guy.Mylabel.Text.Contains("bets")){
+                            guy.MyBet.PayOut(theWinner);
+                        }
                         guy.MyRadioButton.Checked = false;
                         guy.Mylabel.Text = guy.Name + " has not placed a bet";
-                        guy.MyBet.PayOut(theWinner);
+                        // guy.MyBet.PayOut(theWinner);
                         //guy.Collect
                         System.Diagnostics.Debug.WriteLine(guy.Name + " now has " + guy.Cash);
                     }
